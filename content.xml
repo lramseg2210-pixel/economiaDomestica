@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260608174018V56FN3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608174018GR32FG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Economía doméstica</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Producto Final SDA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lorena Ramos </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje en la que abordaremos la gestión de los ingresos y los gastos enseñando a nuestro alumnado cómo ahorrar y cómo funcionan aspectos relevantes como las hipotecas. Estas actividades están destinadas a alumnado de 4º ESO, pudiendo ser aplicadas tanto en matemáticas académicas como matemáticas sociales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780933102604</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780930206886-a2eipjy1t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información de interés</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Información de interés</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780930206886-a2eipjy1t</odePageId>
+      <odeBlockId>block-1780930237372-fnvf134i8</odeBlockId>
+      <blockName>Protección de datos y derechos digitales</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780930206886-a2eipjy1t</odePageId>
+          <odeBlockId>block-1780930237372-fnvf134i8</odeBlockId>
+          <odeIdeviceId>idevice-1780930237371-ikwd3sod1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En el siguiente enlace (<a href="https://canva.link/v37hjexfldhazyj">https://canva.link/v37hjexfldhazyj </a>) se pueden consultar algunas recomendaciones para que el alumnado se sienta seguro a la hora de realizar sus trabajos digitales o de expresarse con su identidad digital.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930237371-ikwd3sod1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En el siguiente enlace (<a href=\"https://canva.link/v37hjexfldhazyj\">https://canva.link/v37hjexfldhazyj </a>) se pueden consultar algunas recomendaciones para que el alumnado se sienta seguro a la hora de realizar sus trabajos digitales o de expresarse con su identidad digital.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780930206886-a2eipjy1t</odePageId>
+      <odeBlockId>block-1780930450257-284lv2q94</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780930206886-a2eipjy1t</odePageId>
+          <odeBlockId>block-1780930450257-284lv2q94</odeBlockId>
+          <odeIdeviceId>idevice-1780930450256-z5vevqn74</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Adjuntamos enlaces interesantes que recogen herramientas y recursos que serán usados en esta situación de aprendizaje (<a href="https://padlet.com/lramseg2210/sda-1-economia-domestica-3ugpcrh4tg2osyjm">https://padlet.com/lramseg2210/sda-1-economia-domestica-3ugpcrh4tg2osyjm</a>) o bien, que pueden ser útiles en el día a día de clase (<a href="https://www.symbaloo.com/shared/AAAAA0Fb4gsAA41_W3eJaQ==">https://www.symbaloo.com/shared/AAAAA0Fb4gsAA41_W3eJaQ==</a>). </p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930450256-z5vevqn74","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Adjuntamos enlaces interesantes que recogen herramientas y recursos que serán usados en esta situación de aprendizaje (<a href=\"https://padlet.com/lramseg2210/sda-1-economia-domestica-3ugpcrh4tg2osyjm\">https://padlet.com/lramseg2210/sda-1-economia-domestica-3ugpcrh4tg2osyjm</a>) o bien, que pueden ser útiles en el día a día de clase (<a href=\"https://www.symbaloo.com/shared/AAAAA0Fb4gsAA41_W3eJaQ==\">https://www.symbaloo.com/shared/AAAAA0Fb4gsAA41_W3eJaQ==</a>). </p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780930763634-aqhju7gsv</odeBlockId>
+      <blockName>LÍNEA TEMPORAL DE LA SDA</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780930763634-aqhju7gsv</odeBlockId>
+          <odeIdeviceId>idevice-1780930763633-rbb4c92kd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En caso de que precises ubicarte en el proyecto usa este enlace para visualizar la línea temporal de la situación de aprendizaje: <a href="https://canva.link/zt5s1iiou88p9o7">https://canva.link/zt5s1iiou88p9o7</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930763633-rbb4c92kd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En caso de que precises ubicarte en el proyecto usa este enlace para visualizar la línea temporal de la situación de aprendizaje: <a href=\"https://canva.link/zt5s1iiou88p9o7\">https://canva.link/zt5s1iiou88p9o7</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780921290191-76e6tcotc</odeBlockId>
+      <blockName>S1. ANTES DE EMPEZAR</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780921290191-76e6tcotc</odeBlockId>
+          <odeIdeviceId>idevice-1780921290189-ijb80nu3j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>20:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo - clase</dd></div></dl><p style="text-align: justify;">Antes de comenzar la situación de aprendizaje vamos a responder las siguientes preguntas para entender el contexto de nuestro proyecto:</p>
+<ul style="list-style-type: square;">
+<li style="text-align: justify;">¿En qué gastas más dinero a lo largo del mes?</li>
+<li style="text-align: justify;">Si recibieras 100 € ahora mismo, ¿qué harías con ellos? ¿Ahorrar una parte o gastarlo?</li>
+<li style="text-align: justify;">¿Qué significa para vosotros “ahorrar”? ¿Crees que es fácil o difícil siendo adolescente?</li>
+<li style="text-align: justify;">¿Por qué creéis que es importante que las familias lleven un control de sus gastos e ingresos?</li>
+<li style="text-align: justify;">¿Qué gastos fijos crees que tiene una familia cada mes?</li>
+<li style="text-align: justify;">Si tuvieras que planificar tu presupuesto mensual, ¿qué porcentaje dedicarías a ocio, ahorro y necesidades básicas?</li>
+</ul></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780921290189-ijb80nu3j","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo - clase","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>20:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo - clase</dd></div></dl><p style=\"text-align: justify;\">Antes de comenzar la situación de aprendizaje vamos a responder las siguientes preguntas para entender el contexto de nuestro proyecto:</p>\n<ul style=\"list-style-type: square;\">\n<li style=\"text-align: justify;\">¿En qué gastas más dinero a lo largo del mes?</li>\n<li style=\"text-align: justify;\">Si recibieras 100 € ahora mismo, ¿qué harías con ellos? ¿Ahorrar una parte o gastarlo?</li>\n<li style=\"text-align: justify;\">¿Qué significa para vosotros “ahorrar”? ¿Crees que es fácil o difícil siendo adolescente?</li>\n<li style=\"text-align: justify;\">¿Por qué creéis que es importante que las familias lleven un control de sus gastos e ingresos?</li>\n<li style=\"text-align: justify;\">¿Qué gastos fijos crees que tiene una familia cada mes?</li>\n<li style=\"text-align: justify;\">Si tuvieras que planificar tu presupuesto mensual, ¿qué porcentaje dedicarías a ocio, ahorro y necesidades básicas?</li>\n</ul></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780921646533-sd9fl5bes</odeBlockId>
+      <blockName>S1. ¿QUÉ ES LA ECONOMÍA DOMÉSTICA?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780921646533-sd9fl5bes</odeBlockId>
+          <odeIdeviceId>idevice-1780921646531-ecdfl08bu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>A continuación vamos a realizar el siguiente Kahoot para averiguar cuáles son vuestros conocimientos sobre la economía doméstica.</p>
+<p><a href="https://create.kahoot.it/share/finanzas-personales-basicas-ahorro-presupuesto-e-intereses/7ba68a35-b2c6-425f-9e31-6bb9a3ae7c2b" title="">https://create.kahoot.it/share/finanzas-personales-basicas-ahorro-presupuesto-e-intereses/7ba68a35-b2c6-425f-9e31-6bb9a3ae7c2b</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780921646531-ecdfl08bu","textInfoDurationInput":"10:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>A continuación vamos a realizar el siguiente Kahoot para averiguar cuáles son vuestros conocimientos sobre la economía doméstica.</p>\n<p><a href=\"https://create.kahoot.it/share/finanzas-personales-basicas-ahorro-presupuesto-e-intereses/7ba68a35-b2c6-425f-9e31-6bb9a3ae7c2b\" title=\"\">https://create.kahoot.it/share/finanzas-personales-basicas-ahorro-presupuesto-e-intereses/7ba68a35-b2c6-425f-9e31-6bb9a3ae7c2b</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780921828572-28u3bmgil</odeBlockId>
+      <blockName>S1. ¿TODOS LOS GASTOS SON IGUALES?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780921828572-28u3bmgil</odeBlockId>
+          <odeIdeviceId>idevice-1780921828571-oaxan3992</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>20:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><h3><span style="color: #236fa1;"><em><strong>Tipos de gastos</strong></em></span></h3>
+<hr />
+<h4><span style="background-color: #ffffff; color: #3598db;">GASTOS FIJOS OBLIGATORIOS</span></h4>
+<p style="text-align: justify;">Gastos necesarios que se repiten periódicamente y se sabe cuándo hay que pagarlos y qué cantidades se deben abonar. Ejemplos: gastos de vivienda, seguros, préstamos, impuestos, ...</p>
+<h4><span style="color: #3598db;">GASTOS VARIABLES NECESARIOS</span></h4>
+<p style="text-align: justify;">Gastos necesarios pero las cantidades no son fijas. Ejemplos: cesta de la compra, ropa, agua, electricidad,... Todos ellos se podrían reducir si hubiera necesidad para satisfacer los gastos fijos obligatorios.</p>
+<h4><span style="color: #3598db;">GASTOS SUPERFLUOS O DISCRECIONALES</span></h4>
+<p style="text-align: justify;">Gastos prescindibles. Ejemplos: suscripción a Netflix, una tostada a media mañana, etc.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780921828571-oaxan3992","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>20:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><h3><span style=\"color: #236fa1;\"><em><strong>Tipos de gastos</strong></em></span></h3>\n<hr />\n<h4><span style=\"background-color: #ffffff; color: #3598db;\">GASTOS FIJOS OBLIGATORIOS</span></h4>\n<p style=\"text-align: justify;\">Gastos necesarios que se repiten periódicamente y se sabe cuándo hay que pagarlos y qué cantidades se deben abonar. Ejemplos: gastos de vivienda, seguros, préstamos, impuestos, ...</p>\n<h4><span style=\"color: #3598db;\">GASTOS VARIABLES NECESARIOS</span></h4>\n<p style=\"text-align: justify;\">Gastos necesarios pero las cantidades no son fijas. Ejemplos: cesta de la compra, ropa, agua, electricidad,... Todos ellos se podrían reducir si hubiera necesidad para satisfacer los gastos fijos obligatorios.</p>\n<h4><span style=\"color: #3598db;\">GASTOS SUPERFLUOS O DISCRECIONALES</span></h4>\n<p style=\"text-align: justify;\">Gastos prescindibles. Ejemplos: suscripción a Netflix, una tostada a media mañana, etc.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780922160689-bmktprwps</odeBlockId>
+      <blockName>S1. ¿CÓMO GESTIONAMOS NUESTROS INGRESOS?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780922160689-bmktprwps</odeBlockId>
+          <odeIdeviceId>idevice-1780922160687-gah1928y0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>10:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><h3><span style="color: #236fa1;"><em><strong>Regla 50 - 30 - 20</strong></em></span></h3>
+<hr />
+<p>Consiste en dividir los ingresos mensuales en los siguientes porcentajes:</p>
+<p><span style="font-size: 18pt;"><strong><span style="color: #3598db;">50%</span></strong> </span>→ Gastos obligatorios y necesarios</p>
+<p><span style="font-size: 14pt; color: #3598db;"><strong>30%</strong> </span>→ Gastos discrecionales</p>
+<p><strong><span style="color: #3598db;">20%</span> </strong>→ Ahorro</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780922160687-gah1928y0","textInfoDurationInput":"10:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>10:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><h3><span style=\"color: #236fa1;\"><em><strong>Regla 50 - 30 - 20</strong></em></span></h3>\n<hr />\n<p>Consiste en dividir los ingresos mensuales en los siguientes porcentajes:</p>\n<p><span style=\"font-size: 18pt;\"><strong><span style=\"color: #3598db;\">50%</span></strong> </span>→ Gastos obligatorios y necesarios</p>\n<p><span style=\"font-size: 14pt; color: #3598db;\"><strong>30%</strong> </span>→ Gastos discrecionales</p>\n<p><strong><span style=\"color: #3598db;\">20%</span> </strong>→ Ahorro</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+      <odeBlockId>block-1780927945233-s95q6udwa</odeBlockId>
+      <blockName>S1. Aplicamos lo aprendido</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5669bb-z15d0u6rw</odePageId>
+          <odeBlockId>block-1780927945233-s95q6udwa</odeBlockId>
+          <odeIdeviceId>idevice-1780927945228-3nicvhxcc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>20:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Observa la siguiente tabla que recoge los ingresos de varias familias y responde a las preguntas planteadas.</p>
+<table border="4" height="161" style="width: 106.125%; height: 161px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 18.5965%;"><br /></td>
+<td style="width: 16.2123%; text-align: center;"><strong>Ingresos</strong></td>
+<td style="width: 22.0933%; text-align: center;"><strong>Gastos Obligatorios</strong></td>
+<td style="width: 23.8417%; text-align: center;"><strong>Gastos Discrecionales</strong></td>
+<td style="width: 19.2323%; text-align: center;"><strong>Ahorro</strong></td>
+</tr>
+<tr>
+<td style="width: 18.5965%; text-align: left;">
+<p><em>Familia A</em></p>
+</td>
+<td style="width: 16.2123%; text-align: center;">1200</td>
+<td style="width: 22.0933%; text-align: center;">840</td>
+<td style="width: 23.8417%; text-align: center;">300</td>
+<td style="width: 19.2323%; text-align: center;">60</td>
+</tr>
+<tr>
+<td style="width: 18.5965%; text-align: left;"><em>Familia B</em></td>
+<td style="width: 16.2123%; text-align: center;">2080</td>
+<td style="width: 22.0933%; text-align: center;">1560</td>
+<td style="width: 23.8417%; text-align: center;">624</td>
+<td style="width: 19.2323%; text-align: center;">-104</td>
+</tr>
+<tr>
+<td style="width: 18.5965%; text-align: left;"><em>Familia C</em></td>
+<td style="width: 16.2123%; text-align: center;">4320</td>
+<td style="width: 22.0933%; text-align: center;">2160</td>
+<td style="width: 23.8417%; text-align: center;">1296</td>
+<td style="width: 19.2323%; text-align: center;">864</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<ol>
+<li style="text-align: justify;">¿Alguna familia cumple la regla 50 - 30 - 20?</li>
+<li style="text-align: justify;">¿Tiene sentido el caso de la familia B? Para cuadrar el presupuesto, ¿qué porcentaje debe eliminar de los gastos discrecionales?</li>
+<li style="text-align: justify;">Abre la hoja de cálculo Presupuesto. En la Hoja1 se recogen los ingresos y gastos mensuales junto con el dinero ahorrado que tiene en el banco una familia de 4 miembros. Tanto los ingresos y gastos del mes son los ingresos y gastos anuales prorrateados. Analiza el presupuesto del ejemplo. Indica si se cumple la regla 50 - 30 - 20 y si hay alguna anomalía indica qué conceptos pueden eliminar.</li>
+</ol>
+<p>Las actividades serán corregidas una vez finalizadas.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780927945228-3nicvhxcc","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>20:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Observa la siguiente tabla que recoge los ingresos de varias familias y responde a las preguntas planteadas.</p>\n<table border=\"4\" height=\"161\" style=\"width: 106.125%; height: 161px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 18.5965%;\"><br /></td>\n<td style=\"width: 16.2123%; text-align: center;\"><strong>Ingresos</strong></td>\n<td style=\"width: 22.0933%; text-align: center;\"><strong>Gastos Obligatorios</strong></td>\n<td style=\"width: 23.8417%; text-align: center;\"><strong>Gastos Discrecionales</strong></td>\n<td style=\"width: 19.2323%; text-align: center;\"><strong>Ahorro</strong></td>\n</tr>\n<tr>\n<td style=\"width: 18.5965%; text-align: left;\">\n<p><em>Familia A</em></p>\n</td>\n<td style=\"width: 16.2123%; text-align: center;\">1200</td>\n<td style=\"width: 22.0933%; text-align: center;\">840</td>\n<td style=\"width: 23.8417%; text-align: center;\">300</td>\n<td style=\"width: 19.2323%; text-align: center;\">60</td>\n</tr>\n<tr>\n<td style=\"width: 18.5965%; text-align: left;\"><em>Familia B</em></td>\n<td style=\"width: 16.2123%; text-align: center;\">2080</td>\n<td style=\"width: 22.0933%; text-align: center;\">1560</td>\n<td style=\"width: 23.8417%; text-align: center;\">624</td>\n<td style=\"width: 19.2323%; text-align: center;\">-104</td>\n</tr>\n<tr>\n<td style=\"width: 18.5965%; text-align: left;\"><em>Familia C</em></td>\n<td style=\"width: 16.2123%; text-align: center;\">4320</td>\n<td style=\"width: 22.0933%; text-align: center;\">2160</td>\n<td style=\"width: 23.8417%; text-align: center;\">1296</td>\n<td style=\"width: 19.2323%; text-align: center;\">864</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<ol>\n<li style=\"text-align: justify;\">¿Alguna familia cumple la regla 50 - 30 - 20?</li>\n<li style=\"text-align: justify;\">¿Tiene sentido el caso de la familia B? Para cuadrar el presupuesto, ¿qué porcentaje debe eliminar de los gastos discrecionales?</li>\n<li style=\"text-align: justify;\">Abre la hoja de cálculo Presupuesto. En la Hoja1 se recogen los ingresos y gastos mensuales junto con el dinero ahorrado que tiene en el banco una familia de 4 miembros. Tanto los ingresos y gastos del mes son los ingresos y gastos anuales prorrateados. Analiza el presupuesto del ejemplo. Indica si se cumple la regla 50 - 30 - 20 y si hay alguna anomalía indica qué conceptos pueden eliminar.</li>\n</ol>\n<p>Las actividades serán corregidas una vez finalizadas.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780921224522-xbar43cxs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780921224522-xbar43cxs</odePageId>
+      <odeBlockId>block-1780928816035-xxmpow41p</odeBlockId>
+      <blockName>S2. HIPOTECAS</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780921224522-xbar43cxs</odePageId>
+          <odeBlockId>block-1780928816035-xxmpow41p</odeBlockId>
+          <odeIdeviceId>idevice-1780928816033-7gv1d64mf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40.00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo - clase</dd></div></dl><h3><span style="color: #236fa1;">Hipotecas</span></h3>
+<hr />
+<p style="text-align: justify;">Una hipoteca es un producto financiero enfocado a la compra de una casa. Es un tipo de crédito con plazo de amortización que puede alcanzar los 35 años. </p>
+<p style="text-align: justify;">Es uno de los gastos obligatorios que mayor importe se lleva al año en el presupuesto familiar.</p>
+<h3><span style="color: #236fa1;">Tipos de hipotecas</span></h3>
+<hr />
+<h4><span style="color: #3598db;">Variable</span></h4>
+<p style="text-align: justify;">Tienen un tipo de interés variable que suele sur el Euribor más un porcentaje. El tipo varía según cambie el<strong> Euribor</strong>.</p>
+<p style="text-align: justify;"><span style="color: #34495e;"><em>¿Qué es el Euribor? Veamos el siguiente vídeo <a href="https://www.youtube.com/watch?v=O8-ue5q7r_8">https://www.youtube.com/watch?v=O8-ue5q7r_8</a> </em></span></p>
+<h4><span style="color: #3598db;">Fijas</span></h4>
+<p style="text-align: justify;">El tipo de interés se mantiene fijo durante todo el periodo de amortización.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780928816033-7gv1d64mf","textInfoDurationInput":"40.00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo - clase","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>40.00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo - clase</dd></div></dl><h3><span style=\"color: #236fa1;\">Hipotecas</span></h3>\n<hr />\n<p style=\"text-align: justify;\">Una hipoteca es un producto financiero enfocado a la compra de una casa. Es un tipo de crédito con plazo de amortización que puede alcanzar los 35 años. </p>\n<p style=\"text-align: justify;\">Es uno de los gastos obligatorios que mayor importe se lleva al año en el presupuesto familiar.</p>\n<h3><span style=\"color: #236fa1;\">Tipos de hipotecas</span></h3>\n<hr />\n<h4><span style=\"color: #3598db;\">Variable</span></h4>\n<p style=\"text-align: justify;\">Tienen un tipo de interés variable que suele sur el Euribor más un porcentaje. El tipo varía según cambie el<strong> Euribor</strong>.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #34495e;\"><em>¿Qué es el Euribor? Veamos el siguiente vídeo <a href=\"https://www.youtube.com/watch?v=O8-ue5q7r_8\">https://www.youtube.com/watch?v=O8-ue5q7r_8</a> </em></span></p>\n<h4><span style=\"color: #3598db;\">Fijas</span></h4>\n<p style=\"text-align: justify;\">El tipo de interés se mantiene fijo durante todo el periodo de amortización.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780921224522-xbar43cxs</odePageId>
+      <odeBlockId>block-1780929336234-xpnb2j4ow</odeBlockId>
+      <blockName>S2. Aplicamos lo aprendido</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780921224522-xbar43cxs</odePageId>
+          <odeBlockId>block-1780929336234-xpnb2j4ow</odeBlockId>
+          <odeIdeviceId>idevice-1780929336233-4xir6mojb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><h3 style="text-align: justify;"><span style="color: #236fa1;"><strong>Ejercicio 1</strong></span></h3>
+<p style="text-align: justify;">A una familia le concedieron una hipoteca variable por valor de 140 000 € a devolver en 30 años con un interés del Euribor más 2'5%.</p>
+<p style="text-align: justify;">Si contrataban un seguro de la casa, un seguro de vida y depositaban 50 € cada mes en un fondo de pensiones, el tipo de interés de la hipoteca era el Euribor más 1%.</p>
+<p style="text-align: justify;">Al inicio de la hipoteca el Euribor estaba al 3'5% y contrataron los productos mencionados.</p>
+<p> Abre la hoja de cálculo <strong>Hipoteca</strong>. Analiza el ejercicio resuelto de la Hoja 1 y contesta:</p>
+<ol>
+<li>¿Qué cuota mensual empezaron a pagar?</li>
+<li>De la cuota mensual, ¿cuánto corresponde a intereses y cuánto a capital?</li>
+<li>¿Son fijas las cantidades mensuales de interés y capital?</li>
+<li>Al finalizar el primer año, ¿qué capital habrían amortizado? ¿Cuál era el capital pendiente?</li>
+<li>De mantenerse ese interés, ¿cuánto dinero habrían pagado de intereses al acabar los 30 años?</li>
+<li>Analiza el gráfico de amortización e indica en qué periodo se paga más interés que capital.</li>
+<li>Si se tuviese dinero para amortizar o reducir una parte del crédito, ¿en qué momento sería aconsejable hacerlo?</li>
+</ol>
+<h3 style="text-align: justify;"><strong><span style="color: #236fa1;">Ejercicio 2</span></strong></h3>
+<p style="text-align: justify;"><span style="color: #000000;">A una familia que está pagando una hipoteca le quedan 40 000 € de deuda y un tiempo de 5 años. La hipoteca la contrataron con un tipo variable del Euribor +0'75%. En ese momento el Euribor está al 4%.</span></p>
+<p style="text-align: justify;">Abre la hoja de cálculo <strong>Hipoteca</strong>, abre la Hoja 2, modifica los datos de esta situación y contesta:</p>
+<ol>
+<li style="text-align: justify;">Si se mantuviese el interés según está, ¿cuánto pagarían de intereses en los 5 años?</li>
+<li style="text-align: justify;">Si se amortiza la deuda en 15 000 €, ¿a cuánto se reduciría la cuota?¿cuánto se ahorrarían en intereses manteniendo la deuda en los 5 años?</li>
+<li style="text-align: justify;">Cambia los datos de la hoja de cálculo y reduce el plazo en años para que quede una cuota similar a la primera. ¿Cuántos intereses pagarán en este caso?¿Se pagan menos intereses reduciendo la cuota o reduciendo el plazo?</li>
+<li style="text-align: justify;">Si no se quieren descapitalizar y mantener los 15 000 € e invertirlos en un producto financiero seguro, ¿qué interés deberían asegurar para obtener en los 5 años una rentabilidad similar a lo que ahorrarían amortizando la hipoteca? Recuerda que de los intereses que se cobran, Hacienda retiene un 19%.</li>
+</ol></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780929336233-4xir6mojb","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><h3 style=\"text-align: justify;\"><span style=\"color: #236fa1;\"><strong>Ejercicio 1</strong></span></h3>\n<p style=\"text-align: justify;\">A una familia le concedieron una hipoteca variable por valor de 140 000 € a devolver en 30 años con un interés del Euribor más 2'5%.</p>\n<p style=\"text-align: justify;\">Si contrataban un seguro de la casa, un seguro de vida y depositaban 50 € cada mes en un fondo de pensiones, el tipo de interés de la hipoteca era el Euribor más 1%.</p>\n<p style=\"text-align: justify;\">Al inicio de la hipoteca el Euribor estaba al 3'5% y contrataron los productos mencionados.</p>\n<p> Abre la hoja de cálculo <strong>Hipoteca</strong>. Analiza el ejercicio resuelto de la Hoja 1 y contesta:</p>\n<ol>\n<li>¿Qué cuota mensual empezaron a pagar?</li>\n<li>De la cuota mensual, ¿cuánto corresponde a intereses y cuánto a capital?</li>\n<li>¿Son fijas las cantidades mensuales de interés y capital?</li>\n<li>Al finalizar el primer año, ¿qué capital habrían amortizado? ¿Cuál era el capital pendiente?</li>\n<li>De mantenerse ese interés, ¿cuánto dinero habrían pagado de intereses al acabar los 30 años?</li>\n<li>Analiza el gráfico de amortización e indica en qué periodo se paga más interés que capital.</li>\n<li>Si se tuviese dinero para amortizar o reducir una parte del crédito, ¿en qué momento sería aconsejable hacerlo?</li>\n</ol>\n<h3 style=\"text-align: justify;\"><strong><span style=\"color: #236fa1;\">Ejercicio 2</span></strong></h3>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">A una familia que está pagando una hipoteca le quedan 40 000 € de deuda y un tiempo de 5 años. La hipoteca la contrataron con un tipo variable del Euribor +0'75%. En ese momento el Euribor está al 4%.</span></p>\n<p style=\"text-align: justify;\">Abre la hoja de cálculo <strong>Hipoteca</strong>, abre la Hoja 2, modifica los datos de esta situación y contesta:</p>\n<ol>\n<li style=\"text-align: justify;\">Si se mantuviese el interés según está, ¿cuánto pagarían de intereses en los 5 años?</li>\n<li style=\"text-align: justify;\">Si se amortiza la deuda en 15 000 €, ¿a cuánto se reduciría la cuota?¿cuánto se ahorrarían en intereses manteniendo la deuda en los 5 años?</li>\n<li style=\"text-align: justify;\">Cambia los datos de la hoja de cálculo y reduce el plazo en años para que quede una cuota similar a la primera. ¿Cuántos intereses pagarán en este caso?¿Se pagan menos intereses reduciendo la cuota o reduciendo el plazo?</li>\n<li style=\"text-align: justify;\">Si no se quieren descapitalizar y mantener los 15 000 € e invertirlos en un producto financiero seguro, ¿qué interés deberían asegurar para obtener en los 5 años una rentabilidad similar a lo que ahorrarían amortizando la hipoteca? Recuerda que de los intereses que se cobran, Hacienda retiene un 19%.</li>\n</ol></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780929722075-l9juq7rkr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780929722075-l9juq7rkr</odePageId>
+      <odeBlockId>block-1780929736112-dlkxtsxkf</odeBlockId>
+      <blockName>S3. NUESTRO PRESUPUESTO FAMILIAR</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780929722075-l9juq7rkr</odePageId>
+          <odeBlockId>block-1780929736112-dlkxtsxkf</odeBlockId>
+          <odeIdeviceId>idevice-1780929736110-x1c4r4heg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p style="text-align: justify;">Trabajad por parejas.</p>
+<p style="text-align: justify;"> Abrid la hoja de cálculo <strong>Presupuesto</strong>. En la Hoja 2 modificad todos los datos necesarios para realizar un presupuesto. Podéis prorratear los ingresos y gastos y trabajar mensualmente o bien anualmente. Hay ingresos, como las pagas extraordinarias, que se pueden cobrar en junio y diciembre. También hay gastos como el seguro del coche o de la casa que se pagan un determinado mes.</p>
+<p style="text-align: justify;"> Realizad un presupuesto familiar y justifica qué cantidad de ahorro puede tener una familia que tiene que pagar el alquiler de la vivienda.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780929736110-x1c4r4heg","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p style=\"text-align: justify;\">Trabajad por parejas.</p>\n<p style=\"text-align: justify;\"> Abrid la hoja de cálculo <strong>Presupuesto</strong>. En la Hoja 2 modificad todos los datos necesarios para realizar un presupuesto. Podéis prorratear los ingresos y gastos y trabajar mensualmente o bien anualmente. Hay ingresos, como las pagas extraordinarias, que se pueden cobrar en junio y diciembre. También hay gastos como el seguro del coche o de la casa que se pagan un determinado mes.</p>\n<p style=\"text-align: justify;\"> Realizad un presupuesto familiar y justifica qué cantidad de ahorro puede tener una familia que tiene que pagar el alquiler de la vivienda.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780929722075-l9juq7rkr</odePageId>
+      <odeBlockId>block-1780930963658-sw50r8q92</odeBlockId>
+      <blockName>EVALUACIÓN TRABAJO COLABORATIVO</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780929722075-l9juq7rkr</odePageId>
+          <odeBlockId>block-1780930963658-sw50r8q92</odeBlockId>
+          <odeIdeviceId>idevice-1780930963657-5nfciptqn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el trabajo cooperativo se empleará la siguiente lista de cotejo <a href="https://canva.link/c9ocdneixlynm2a">https://canva.link/c9ocdneixlynm2a</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930963657-5nfciptqn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el trabajo cooperativo se empleará la siguiente lista de cotejo <a href=\"https://canva.link/c9ocdneixlynm2a\">https://canva.link/c9ocdneixlynm2a</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780932501883-hqs3m7yae</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780932501883-hqs3m7yae</odePageId>
+      <odeBlockId>block-1780932599117-f4qolwb9w</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780932501883-hqs3m7yae</odePageId>
+          <odeBlockId>block-1780932599117-f4qolwb9w</odeBlockId>
+          <odeIdeviceId>idevice-1780932599114-ltfh72m14</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se detallan los criterios de evaluación asociados a cada sesión de la situación de aprendizaje:</p>
+<p><img src="{{context_path}}/content/resources/criterios B2.jpg" title="Criterios de evaluación" width="1163" height="486" alt="Tabla que relaciona las actividades con los criterios de evaluación, la duración, los instrumentos y los agrupamientos." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780932599114-ltfh72m14","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se detallan los criterios de evaluación asociados a cada sesión de la situación de aprendizaje:</p>\n<p><img src=\"{{context_path}}/content/resources/criterios B2.jpg\" title=\"Criterios de evaluación\" width=\"1163\" height=\"486\" alt=\"Tabla que relaciona las actividades con los criterios de evaluación, la duración, los instrumentos y los agrupamientos.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780931169663-zo4jnbdpv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780931169663-zo4jnbdpv</odePageId>
+      <odeBlockId>block-1780932325931-t1tzcb41m</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780931169663-zo4jnbdpv</odePageId>
+          <odeBlockId>block-1780932325931-t1tzcb41m</odeBlockId>
+          <odeIdeviceId>idevice-1780932325929-7w96wz7rw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Economía doméstica</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lorena Ramos </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
